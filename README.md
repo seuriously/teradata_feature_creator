@@ -1,4 +1,5 @@
 # teradata_feature_creator
+https://seuriously.shinyapps.io/teradata_autofeature/
 Simple auto feature creator for teradata database. 
 Covers:
 1. descriptive stats for columns in a table.
